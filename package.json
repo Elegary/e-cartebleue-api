@@ -1,0 +1,13 @@
+{
+  "name": "e-cartebleue-api",
+  "version": "1.0.0",
+  "description": "An api to use e-cartebleue service",
+  "main": "lib/index.js",
+  "repository": "https://github.com/Elegary/e-cartebleue-api.git",
+  "author": "Elegary <21334807+Elegary@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
